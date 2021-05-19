@@ -75,42 +75,42 @@ function Internships() {
                     </a> 
 
 
-                    <a class="digital_marketing" href="">
+                    <a class="digital_marketing" href="/Programming">
                     <div class="img">
                         <img src={digital_marketing} alt="digital_marketing" />
                     </div>
                     <div class="text">Digital Marketing</div>
                     </a> 
 
-                    <a class="web_development" href="">
+                    <a class="web_development" href="/Programming">
                     <div class="img">
                         <img src={web_development} alt="web_development" />
                     </div>
                     <div class="text">Web Development</div>
                     </a> 
 
-                    <a class="machine_learning" href="">
+                    <a class="machine_learning" href="/Programming">
                     <div class="img">
                         <img src={machine_learning} alt="machine_learning" />
                     </div>
                     <div class="text">Machine Learning</div>
                     </a> 
 
-                    <a class="advanced_excel" href="">
+                    <a class="advanced_excel" href="/Programming">
                     <div class="img">
                         <img src={advanced_excel} alt="advanced_excel" />
                     </div>
                     <div class="text">Advanced Excel</div>
                     </a> 
 
-                    <a class="ethical_hacking" href="">
+                    <a class="ethical_hacking" href="/Programming">
                     <div class="img">
                         <img src={ethical_hacking} alt="ethical_hacking" />
                     </div>
                     <div class="text">Ethical Hacking</div>
                     </a> 
 
-                    <a class="autocad" href="">
+                    <a class="autocad" href="/Programming">
                     <div class="img">
                         <img src={autocad} alt="autocad" />
                     </div>

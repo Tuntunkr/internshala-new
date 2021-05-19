@@ -34,43 +34,43 @@ const flexbox = () => {
             </div>
             <div class="text">Work from home</div>
             </a>
-            <a class="delhi" href="">
+            <a class="delhi" href="/WorkFromHome">
             <div class="img">
                 <img src={Delhi} alt="Delhi" />
             </div>
             <div class="text">Delhi/NCR</div>
             </a>
-            <a class="bangalore" href="">
+            <a class="bangalore" href="/WorkFromHome">
             <div class="img">
                 <img src={Bangalore} alt="Bangalore" />
             </div>
             <div class="text">Bangalore</div>
             </a>
-            <a class="mumbai" href="">
+            <a class="mumbai" href="/WorkFromHome">
             <div class="img">
                 <img src={Mumbai} alt="Mumbai" />
             </div>
             <div class="text">Mumbai</div>
             </a>
-            <a class="hyderabad" href="">
+            <a class="hyderabad" href="/WorkFromHome">
             <div class="img">
                 <img src={Hyderabad} alt="Hyderabad" />
             </div>
             <div class="text">Hyderabad</div>
             </a>
-            <a class="chennai" href="">
+            <a class="chennai" href="/WorkFromHome">
             <div class="img">
                 <img src={Chennai} alt="Chennai" />
             </div>
             <div class="text">Chennai</div>
             </a>
-            <a class="kolkata" href="">
+            <a class="kolkata" href="/WorkFromHome">
             <div class="img">
                 <img src={Kolkata} alt="Kolkata" />
             </div>
             <div class="text">Kolkata</div>
             </a>
-            <a class="international" href="">
+            <a class="international" href="/WorkFromHome">
             <div class="img">
                 <img src={International} alt="International" />
             </div>
@@ -82,49 +82,49 @@ const flexbox = () => {
 
         <h6>Popular categories</h6>
         <div class="scrollable_cards">
-            <a class="parttime" href="">
+            <a class="parttime" href="/WorkFromHome">
             <div class="img">
                 <img src={Parttime} alt="Parttime" />
             </div>
             <div class="text">Part-time</div>
             </a>
-            <a class="engineering" href="">
+            <a class="engineering" href="/WorkFromHome">
             <div class="img">
                 <img src={Engineering} alt="Engineering" />
             </div>
             <div class="text">Engineering</div>
             </a>
-            <a class="ngo" href="">
+            <a class="ngo" href="/WorkFromHome">
             <div class="img">
                 <img src={Ngo} alt="Ngo" />
             </div>
             <div class="text">NGO</div>
             </a>
-            <a class="mba" href="">
+            <a class="mba" href="/WorkFromHome">
             <div class="img">
                 <img src={Mba} alt="Mba" />
             </div>
             <div class="text">MBA</div>
             </a>
-            <a class="design" href="">
+            <a class="design" href="/WorkFromHome">
             <div class="img">
                 <img src={Design} alt="Design" />
             </div>
             <div class="text">Design</div>
             </a>
-            <a class="science" href="">
+            <a class="science" href="/WorkFromHome">
             <div class="img">
                 <img src={Science} alt="Science" />
             </div>
             <div class="text">Science</div>
             </a>
-            <a class="med" href="">
+            <a class="med" href="/WorkFromHome">
             <div class="img">
                 <img src={Media} alt="Media" />
             </div>
             <div class="text">Media</div>
             </a>
-            <a class="humanities" href="">
+            <a class="humanities" href="/WorkFromHome">
             <div class="img">
                 <img src={Humanities} alt="Humanities" />
             </div>

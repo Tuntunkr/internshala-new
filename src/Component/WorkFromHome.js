@@ -54,7 +54,7 @@ function Search() {
 
                 <div className="col-md-8">
                     <div className="w-100 d-flex justify-content-center align-items-center">
-                        <DropdownButton
+                        {/* <DropdownButton
                             variant="light"
                             title="6046 work from home jobs/internships"
                             id="input-group-dropdown-1"
@@ -62,7 +62,7 @@ function Search() {
                         >
                         
                             
-                        </DropdownButton>
+                        </DropdownButton> */}
                     </div>
                     <div style={{ height: "85vh", overflow: "auto", }}>
                         <MainCard />
