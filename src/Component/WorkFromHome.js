@@ -5,7 +5,7 @@ import MainCard from './MainCard';
 
 function Search() {
     return (
-        <div className='container'>
+        <div className='container99'>
             <Row className="mainContainer">
                 <div className="col-md-4">
                     <Card style={{ height: "90%", overflow: "auto", }}>
