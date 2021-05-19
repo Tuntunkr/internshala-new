@@ -1,15 +1,16 @@
 import React from 'react'
-import { Jumbotron } from 'react-bootstrap'
+import { Container, Jumbotron } from 'react-bootstrap'
+import MainForm from './MainForm'
 
 function FresherJobs() {
   return (
-    <div>
+    <Container>
       
-        <img className="hieght" src="img/img1.png" alt=" fresh job"/ >
+        <img className="hieght" src="img/img1.png" alt=" fresh job" />
           <h1 className="container">101 jobs for freshers and remote jobs</h1>
-      
+      <MainForm />
     
-    </div>
+    </Container>
   )
 }
 

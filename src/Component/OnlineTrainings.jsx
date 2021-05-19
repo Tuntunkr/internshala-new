@@ -2,33 +2,8 @@ import React from 'react'
 
 function OnlineTrainings() {
     return (
-        <div>
-            <nav class="navbar navbar-expand-lg navbar-light bg-light">
-  <a class="navbar-brand" href="/"><span className="color">INTERN</span>SHALA TRAININGS</a>
-
-  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-    <span class="navbar-toggler-icon"></span>
-  </button>
-
-  <div class="collapse navbar-collapse" id="navbarSupportedContent">
-    <ul class="navbar-nav ml-auto">
-    <div class="btn-group">
-  <button class="btn btn-secondary btn-sm dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false">
-    Small button
-  </button>
-  <ul class="dropdown-menu">
-    ...
-  </ul>
-</div>
-   
-      <li class="nav-item">
-        <a class="nav-link" href="/Login">Login</a>
-      </li>
-        
-     
-    </ul>
-  </div>
-</nav>
+      <div>
+      
 {/* create card and image */}
 <img className="hieght" src="img/img1.png" alt=" fresh job"/ >
   <h1 className="container">Online Trainings we offer:</h1>

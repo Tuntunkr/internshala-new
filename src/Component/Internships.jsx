@@ -9,11 +9,11 @@ import machine_learning from "./city/machine_learning.svg"
 import advanced_excel from "./city/advanced_excel.svg"
 import ethical_hacking from "./city/ethical_hacking.svg"
 import autocad from "./city/autocad.svg"
-import creative_writing from "./city/creative_writing.svg"
 import ctc from "./city/ctc.svg"
 import dream from "./city/dream.svg"
 import verified from "./city/verified.svg"
 import Footer from "./Footer"
+import '../main.css';
 
 function Internships() {
     return (
@@ -67,7 +67,7 @@ function Internships() {
         <p>Learn new-age skills on the go</p>
         <div class="cont">
           <div class="scrollable_cards">
-                    <a class="programming" href="">
+                    <a class="programming" href="/Programming">
                     <div class="img">
                         <img src={programming} alt="programming" />
                     </div>
@@ -117,13 +117,7 @@ function Internships() {
                     <div class="text">Autocad</div>
                     </a> 
 
-                    <a class="creative_writing" href="">
-                    <div class="img">
-                        <img src={creative_writing} alt="creative_writing" />
-                    </div>
-                    <div class="text">Creative Writing</div>
-                    </a> 
-
+                   
           </div>
         </div>
         <h3>Fresher Jobs </h3>

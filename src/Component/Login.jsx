@@ -2,7 +2,7 @@ import React from 'react'
 import signupic from '../img/login.svg'
 import { NavLink } from 'react-bootstrap'
 import  axios from 'axios';
-
+import '../main.css';
 function Login() {
     return (
         <>

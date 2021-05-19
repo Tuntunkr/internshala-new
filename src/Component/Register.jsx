@@ -3,6 +3,7 @@ import { Redirect } from 'react-router'
 import { NavLink } from 'react-bootstrap'
 import signupic from '../img/signup.svg'
 import  axios  from 'axios';
+import '../main.css';
 function Register() {
     return (
         <>
@@ -58,7 +59,7 @@ function Register() {
 
                             </form>
                             </div>
-                                <div className="signup-image">
+                                <div classNaMe="signup-image">
                                     <figure>
                                         <img src={signupic} alt="registration pic" />
                                     </figure>
